@@ -1,5 +1,5 @@
 <!-- ![Open NEXr Modeler Banner](public/banner.png) -->
-![Open NEXr Modeler Banner](/public/banner.png)
+![Open NEXr Modeler Banner](/public/Banner.png)
 
 # Open NEXr Modeler
 [![Open Source License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
